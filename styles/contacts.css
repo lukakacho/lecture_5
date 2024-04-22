@@ -1,0 +1,104 @@
+header {
+	margin-bottom: 44px;
+	margin: 52px 54px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul {
+	display: inline-block;  
+}
+
+li {
+	display: inline-block;
+}
+
+a {
+	font-size: 26px;
+	font-weight: 700px;
+	color: #8D81FF;
+}
+
+.mtavari {
+	color: #4E6FAE;
+	margin-left: 60px;
+}
+
+.siaxleebi {
+	margin-left: 87px;
+}
+
+.kontaqti {
+	margin-left: 81px;
+}
+.line {
+	display: inline-block;
+	border: 2px solid;
+	color: #5012D5;
+	height: 40px;
+	vertical-align: middle;
+	margin: 0 41px;
+}
+
+footer {
+	margin-top: 143px;
+	margin-left: 52px;
+	margin-bottom: 180px;
+}
+
+.contact {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 20px;
+	font-weight: 400px;
+	margin-left: 162px;
+
+}
+
+section {
+	width: 100%;
+	background-color: #E7E7E7;
+	height: 735px;
+}
+
+span {
+	color: #7E8898;
+}
+
+.h3 {
+	font-size: 36px;
+	font-weight: 700px;
+	color: #4E6FAE;
+	margin-top: 93px;
+}
+
+iframe {
+	width: 944px;
+	height: 549px;
+	margin-left: 40px;
+	margin-top: 93px;
+}
+
+.one {
+	margin-top: 27px;
+}
+
+.two {
+	margin-top: 23px;
+}
+
+.three {
+	margin-top: 11px;
+}
+
+body{
+	font-family: "BPG Nostalgia", sans-serif;
+
+}
